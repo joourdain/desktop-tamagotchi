@@ -1,0 +1,7 @@
+/* style.css — how your app LOOKS: colors, fonts, sizes, and layout. */
+/* Start by choosing colors, fonts, spacing, and a layout for your character. */
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+}
